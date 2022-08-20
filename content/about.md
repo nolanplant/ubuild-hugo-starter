@@ -28,8 +28,8 @@ alt_text = ""
 image = ""
 [[page_sections]]
 block = "feature-1"
-content = ""
-headline = ""
+content = "Hello"
+headline = "This is a headline"
 media_alignment = "Right"
 template = "content-feature"
 [page_sections.media]
